@@ -4,7 +4,14 @@ __pycache__/
 *$py.class
 
 # C extensions
+
+# ignoring large data files
 *.so
+*.db
+*.zip
+*.gz
+*.csv
+
 
 # Distribution / packaging
 .Python
