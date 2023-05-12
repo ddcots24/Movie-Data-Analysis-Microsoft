@@ -1,7 +1,7 @@
 # Movie-Data-Analysis-Microsoft
 ## Overview
 Topic: Microsoft wants to enter the movie business industry
-- My partner Eitan and I were tasked to give three reccomendations for Microsoft to enter the industry as a part of their Data Scientist team
+- We were tasked to give three reccomendations for Microsoft to enter the industry as a part of their Data Scientist team
 - We used Pandas to clean data from data sets, make analysis, and make reccomendations
 ## Business Understanding
 - The key stakeholders are the higher ups in the company such as the CEO and Owners
