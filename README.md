@@ -19,9 +19,9 @@ Topic: Microsoft wants to enter the movie business industry
  -  We merged the two different data sets and then were able conduct our analysis on movie profitability
 ## Data Analysis
 ### Most Profitable Genres
- - We first took a look at the most profitable genres by median profit
+ - Based on our data we found most profitable genres by median profit
  ![Project 1 image 1](https://github.com/ddcots24/Movie-Data-Analysis-Microsoft/assets/131708046/c0b75b1a-4936-4eac-8d8d-797103ee79fc)
- - We took a look at the top 13 genres with the highest profitability based on the median profit for the movies in the genre and decided to focus in on the top 4 genres
+ - From the top 13 genres with the highest profitability based on the median profit we decided to focus in on the top 4 genres
 ### Top 4 Genre's Profitability based on Run Times 
 - We then took a look at the top 4 genres at the highest average profitability for each respective genre for their run times
 ![Project 1 image 2](https://github.com/ddcots24/Movie-Data-Analysis-Microsoft/assets/131708046/1d3c57ba-eaf3-4fbe-b59d-d0e8abea9e56)
@@ -30,7 +30,7 @@ Topic: Microsoft wants to enter the movie business industry
   - The 125-140 and 155-170 run times are profitable as well
 ### Action Genre Most Profitable Actor/Actress  
 - Profitibality of top 10 actors for the action genre
-  - Chose the action genre because it had the most actors and actresses compared to the other top 4 genres
+  - Chose the action genre because it had the most actors and actresses in the data set compared to the other top 4 genres
 - We chose actors who had been in 4 or more different movies to choose actors who have been popular for the genre and have had traction in the movie industry
 ![Project 1 image 3](https://github.com/ddcots24/Movie-Data-Analysis-Microsoft/assets/131708046/ece9cbdc-7147-44d5-ac36-2cf03840b403)
 ## Conclusion
