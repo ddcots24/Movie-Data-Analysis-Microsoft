@@ -10,7 +10,6 @@ __pycache__/
 *.db
 *.zip
 *.gz
-*.csv
 
 
 # Distribution / packaging
