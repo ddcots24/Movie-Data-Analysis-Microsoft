@@ -12,9 +12,9 @@ Topic: Microsoft wants to enter the movie business industry
 - We got more granular in our analysis and focused on the profitabily of top: movie genres, movie run times and movie actors/actresses
 ## Data Understanding
 - We used two different data sets
-  - IMDB 
+  - [IMDB](https://www.imdb.com/)
     -   A data set which contained categorical information on movie start years, run times, peoples profession associated with the movie (actors, actresses, writers, directors, producers etc..)
-  -  The Numbers
+  -  [The Numbers](https://github.com/ddcots24/Movie-Data-Analysis-Microsoft/blob/main/zippedData/tn.movie_budgets.csv)
      -  A data set which contained numerical information on movie production budgets, and gross earnings where we were able to calculate the profit
  -  We merged the two different data sets and then were able conduct our analysis on movie profitability
 ## Data Analysis
@@ -38,3 +38,12 @@ Topic: Microsoft wants to enter the movie business industry
   - Pursure one of the top 4 most profitable genres(Animation, Adventure, Sci-Fi, Action)
   - For Adventure, Sci-Fi and Action focus on runtimes between 140-155 minutes. For Animation focus on runtimes between 80-110 minutes
   - For Action movies, recruit 1 of the 10 actors previously shown
+ ## Repository Information
+ - This repository contains:
+   - 2 folders containting exploratory notebooks
+   - a folder containing data
+   - a gitignore file
+   - a presentation pdf
+   - Final project Jupyter Notebook
+   - a readme file
+### [Presentation](https://github.com/ddcots24/Movie-Data-Analysis-Microsoft/blob/main/Presentation.pdf)
