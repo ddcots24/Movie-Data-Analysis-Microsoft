@@ -35,9 +35,9 @@ Topic: Microsoft wants to enter the movie business industry
 ![Project 1 image 3](https://github.com/ddcots24/Movie-Data-Analysis-Microsoft/assets/131708046/ece9cbdc-7147-44d5-ac36-2cf03840b403)
 ## Conclusion
 - If Microsoft were to enter the movie industry we would give 3 recommendations:
-  - Pursue 1 of the top 4 most profitable genres (Animation, Adventure, Sci-Fi and Action)
-  - For Adventure, Sci-Fi and Action focus on runtimes between 140-155 minutes. For Animation focus on runtimes between 80-110 minutes
-  - For Action movies, recruit 1 of the 10 actors previously shown
+  1) Pursue 1 of the top 4 most profitable genres (Animation, Adventure, Sci-Fi and Action)
+  2) For Adventure, Sci-Fi and Action focus on runtimes between 140-155 minutes. For Animation focus on runtimes between 80-110 minutes
+  3) For Action movies, recruit 1 of the 10 actors previously shown
  ## Repository Information
  - This repository contains:
    - 2 folders containing exploratory notebooks
