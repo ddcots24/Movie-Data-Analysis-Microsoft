@@ -2,7 +2,7 @@
 ## Overview
 Topic: Microsoft wants to enter the movie business industry
 - We were tasked to give three recommendations to Microsoft for entering the industry as a part of their Data Scientist team
-- We used the Python package Pandas to load in and clean data from data sets as well as analyze, create visualizations and make recommendations
+- We used SQL along with the Python package Pandas to load in and clean data from data sets as well as analyze, create visualizations and make recommendations
 ## Business Understanding
 - The key stakeholders are the higher ups in the company such as the CEO and Owners
 - Microsoft is entering a very saturated industry with many big competitors
